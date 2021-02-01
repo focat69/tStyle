@@ -42,3 +42,10 @@ black.description({
 
 **AFTER**
 ![image](https://storage.googleapis.com/replit/images/1612141951251_42f4f787748eed6ba5416b726bad3621.png)
+
+
+
+# FUTRUE UPDATES
+Add a **GUI**?
+Auto inject using js
+Save injections with js bookmarks
