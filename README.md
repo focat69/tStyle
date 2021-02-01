@@ -46,6 +46,6 @@ black.description({
 
 
 # FUTRUE UPDATES
-Add a **GUI**?
-Auto inject using js
+Add a **GUI**? &nbsp;
+Auto inject using js &nbsp;
 Save injections with js bookmarks
