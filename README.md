@@ -37,6 +37,22 @@ black.description({
 ![image](https://storage.googleapis.com/replit/images/1612141857411_bb4932e3a37ea06144b4ff096764af80.png)
 << This is the code.
 
+![image](https://storage.googleapis.com/replit/images/1612142990674_113d1fb6772c4db41dcacad1db5fbac2.png)
+<< Creation of the pink theme.
+
+(You all can do better than this lmao i did it rlly quick so)
+```
+Line 1: body {
+Line 2:   background-color: pink;
+Line 3: }
+Line 4:
+Line 5:  * {
+Line 6:   color: white;
+Line 7:   font-family: monospace;
+Line 8:  }
+```
+
+
 **BEFORE**
 ![image](https://storage.googleapis.com/replit/images/1612141906045_72878d65fdf0c4a0699237bd3087ae7a.png)
 
