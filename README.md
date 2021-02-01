@@ -61,7 +61,7 @@ Line 8:  }
 
 
 
-# FUTRUE UPDATES
+# FUTURE UPDATES
 Add a **GUI**? &nbsp;
 Auto inject using js &nbsp;
 Save injections with js bookmarks
