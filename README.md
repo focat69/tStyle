@@ -1,7 +1,7 @@
 # tStyle
 Python CSS injecter. (Soon to be Python & JS injecter)
 
-
+**Inspired by [Reflux](https://github.com/frissyn/Reflux)**
 
 *tStyle* is a great css injecter.
 It allows you do anything that you could do in normal css!
