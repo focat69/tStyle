@@ -1,5 +1,5 @@
 # tStyle
-Python CSS injecter.
+Python CSS injecter. (Soon to be Python & JS injecter)
 
 
 
