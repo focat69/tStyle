@@ -98,7 +98,7 @@ Output:
   to { transform: translateX(0); }
 }
 ```
-***3*** lines of python and we have generated ***23*** lines of css!
+***5*** lines of python and we have generated ***23*** lines of css!
 
 
 # FUTURE UPDATES
