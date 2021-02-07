@@ -62,13 +62,15 @@ Line 8:  }
 # Here's why you should use it.
 Some people might say, "You can just write that code! You don't need tStyle!".
 Well, tStyle is working on auto generation so you can just sit back and relax while we do the work.
-How it works is you pick a few options you want to add, then configure those options and we will automatically generate the css for you!
+How it works is you pick a few options you want to add, then configure those options and we will automatically generate the css for you! (Soon to come)
 
 An example:
-```
+```python
 >>> import tStyle as ts
->>> ANIMATION = { "type": "slide", sec: 0.5}
->>> ts.add("*", ANIMATION)
+>>> ANIMATION = { "type": "slide", sec: 0.6, extra: "ease forwards"}
+>>> TRANSFORM = "-150px"
+>>> ts.add("*", ANIMATION, TRANSFORM)
+>>> ts.generate()
 ```
 Output:
 ```css
@@ -100,6 +102,7 @@ Output:
 
 
 # FUTURE UPDATES
+*!* Easy css generation *!* Some commits would be awesome :D
 Add a **GUI**? &nbsp;
 Auto inject using js &nbsp;
 Save injections with js bookmarks
