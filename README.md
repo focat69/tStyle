@@ -59,6 +59,44 @@ Line 8:  }
 **AFTER**
 ![image](https://storage.googleapis.com/replit/images/1612141951251_42f4f787748eed6ba5416b726bad3621.png)
 
+# Here's why you should use it.
+Some people might say, "You can just write that code! You don't need tStyle!".
+Well, tStyle is working on auto generation so you can just sit back and relax while we do the work.
+How it works is you pick a few options you want to add, then configure those options and we will automatically generate the css for you!
+
+An example:
+```
+>>> import tStyle as ts
+>>> ANIMATION = { "type": "slide", sec: 0.5}
+>>> ts.add("*", ANIMATION)
+```
+Output:
+```css
+* {
+  transition:0.3s;
+  -moz-transition:0.3s;
+  transform: translateX(-150px);
+  animation:slide 0.8s ease forwards;
+}
+
+*:nth-child(odd) {
+  animation-duration: 0.6s;
+}
+
+@keyframes slide {
+  /* 0% {
+    left:-100px;
+  }
+  50% {
+    left:-50px;
+  }
+  100% {
+    text-align:center;
+  } */
+  to { transform: translateX(0); }
+}
+```
+***3*** lines of python and we have generated ***22*** lines of css!
 
 
 # FUTURE UPDATES
