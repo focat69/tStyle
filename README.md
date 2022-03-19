@@ -102,7 +102,7 @@ Output:
 
 
 # FUTURE UPDATES
-*!* Easy css generation *!* Some commits would be awesome :D
-Add a **GUI**? &nbsp;
-Auto inject using js &nbsp;
+*!* Easy css generation *!* Some commits would be awesome :D  
+Add a **GUI**?  
+Auto inject using js  
 Save injections with js bookmarks
