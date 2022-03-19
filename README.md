@@ -67,7 +67,7 @@ How it works is you pick a few options you want to add, then configure those opt
 An example:
 ```python
 >>> import tStyle as ts
->>> ANIMATION = { "type": "slide", sec: 0.6, extra: "ease forwards"}
+>>> ANIMATION = { "type": "slide", "sec": 0.6, "extra": "ease forwards"}
 >>> TRANSFORM = "-150px"
 >>> ts.add("*", ANIMATION, TRANSFORM)
 >>> ts.generate()
